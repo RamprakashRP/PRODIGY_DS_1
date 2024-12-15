@@ -1,4 +1,4 @@
-## SCT_ML_1
+## PRODIGY_DS_1
 -Predicting House Prices using Linear Regression
 -This project focuses on building a linear regression model to estimate house prices based on features such as the living area square footage, number of bedrooms, and number of bathrooms.
 
